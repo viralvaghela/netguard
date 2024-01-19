@@ -1,4 +1,4 @@
-# Netguard 2.0 🚀
+# Netguard 🚀
 
 Welcome to Netguard, your go-to solution for monitoring outgoing traffic on your computer! 🕵️‍♂️
 
@@ -15,7 +15,7 @@ Netguard is a simple Python script designed to scan and analyze outgoing traffic
 
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/netguard.git
+    git clone https://github.com/viralvaghela/netguard.git
     ```
 
 2. Navigate to the project directory.
@@ -25,7 +25,7 @@ Netguard is a simple Python script designed to scan and analyze outgoing traffic
 
 3. Run the script.
     ```bash
-    python netguard.py
+    python Netguard.py
     ```
 
 4. Explore the results and stay informed about your network activity!
